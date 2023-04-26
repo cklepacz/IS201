@@ -1,0 +1,53 @@
+.common{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.header{
+    background-color: black;
+    color:white;
+    line-height: 50px;
+    text-align: center;
+}
+
+.mainbody{
+    background-color: aliceblue;
+    color:black;
+}
+
+.subset{
+    font-style:italic;
+}
+
+img{
+    display:block;
+    width: 40%;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.center{
+    text-align: center;
+}
+
+.test{
+    display: block;
+    width: 50%;
+    margin-left: auto;
+}
+
+nav{
+    padding: 10px
+    overflow: hidden;
+}
+
+nav a{
+    color:blue;
+    padding: 10px 15px;
+    text-decoration: underline;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+nav a:hover{
+    background-color: #ccc;
+}
